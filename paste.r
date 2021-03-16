@@ -1,3 +1,4 @@
+#Pastes R is awesome
 text1 <- "R is"
 text2 <- "awesome"
 
