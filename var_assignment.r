@@ -1,3 +1,4 @@
+#Program that prints variables
 name <- "John" #<- is assignment operator
 age <- 40 #<- is assingment
 
